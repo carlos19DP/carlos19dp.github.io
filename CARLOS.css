@@ -1,0 +1,37 @@
+.tabla{
+    background-color: #a2dda0;
+    color: #161a1d;
+    margin: 10px;
+    border: 1px solid #04090e;
+    border-collapse: collapse; 
+    
+}
+
+
+ td, th {
+    border: black 2px solid;
+    
+} 
+
+.fondo{ 
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=5542&resolucion=1920x1080);
+
+}
+.cont{
+    color: whitesmoke;
+    width: 450px;   
+     
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+
+.cont-1{
+    display: flex;
+    justify-content: baseline;
+}
+.tb{
+    display: flex;
+    justify-content: left;
+}
